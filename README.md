@@ -11,9 +11,9 @@
 </ul>
 
 <h1>What does this test do.</h1>
+<h2>Сonducts 5 smok tests with different users. First user - correct user.Users 2 - 5 have problems.</h2>
+<h2>Test - 1. Conducts smoke-testing:</h2>
 <ol>
-  Сonducts 5 smok tests with different users. First user - correct user.Users 2 - 5 have problems.
-  Test - 1. Conducts smoke-testing:
     <li>Correct login.</li>
     <li>Chose product.</li>
     <li>Add product to cart.</li>
