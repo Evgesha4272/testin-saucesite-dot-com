@@ -9,3 +9,21 @@
   <li>In file base.py in method "get_screenshot" change path to directory for saves screnshots on your path.</li>
   <li>While in the project directory, enter the command, for start test with info in console: "python -m pytest -s -v" or "pytest -s -v".</li>
 </ul>
+
+<h1>What does this test do.</h1>
+<ol>
+  <li>Сonducts 5 smok tests with different users. First user - correct user.Users 2 - 5 have problems.</li>
+  <li>Test - 1. Conducts smoke-testing:
+    <li>Correct login.</li>
+    <li>Chose product.</li>
+    <li>Add product to cart.</li>
+    <li>Put ingo about order.</li>
+    <li>Confirms his order.</li>
+  </li>
+  <li>Test - 2. Blocked user:
+    <li>Put login and password, click button "login".</li>
+    <li>Put login and password.</li>
+  </li>
+  <li></li>
+  <li></li>
+</ol>
