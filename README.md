@@ -11,7 +11,8 @@
 </ul>
 
 <h1>What does this test do.</h1>
-<p>Сonducts 5 smok tests with different users. First user - correct user.Users 2 - 5 have problems.</p>
+<p><i>Сonducts 5 smok tests with different users. First user - correct user.Users 2 - 5 have problems.</i></p>
+
 <h3>Test - 1. Conducts smoke-testing:</h3>
 <ol>
   <li>Correct login.</li>
@@ -20,11 +21,39 @@
   <li>Put ingo about order.</li>
   <li>Confirms his order.</li>
 </ol>
-<h3>Test - 2. Blocked user:</h3>
+
+<h3>Test - 2. Blocked user - no have access to system:</h3>
 <ol>
   <li>Put login and password, click button "login".</li>
-  <li>Put login and password.</li>
+  <li>Make screenshots, because user on have access to system.</li>
 </ol>
-  <li></li>
-  <li></li>
 
+<h3>Test - 3. Problem user - have problem with work system:</h3>
+<ol>
+  <li>Correct login.</li>
+  <li>Chose product.</li>
+  <li>Add product to cart.</li>
+  <li>Put ingo about order.</li>
+  <li>Confirms his order.</li>
+  <li>Makes screens on all steps.</li>
+</ol>
+
+<h3>Test - 4. Error user - have problem with work system not in all steps:</h3>
+<ol>
+  <li>Correct login.</li>
+  <li>Chose product.</li>
+  <li>Add product to cart.</li>
+  <li>Put ingo about order.</li>
+  <li>Confirms his order.</li>
+  <li>Makes screens on all steps.</li>
+</ol>
+
+<h3>Test - 5. Visual user - has a problem displaying elements:</h3>
+<ol>
+  <li>Correct login.</li>
+  <li>Chose product.</li>
+  <li>Add product to cart.</li>
+  <li>Put ingo about order.</li>
+  <li>Confirms his order.</li>
+  <li>Makes screens on all steps.</li>
+</ol>
